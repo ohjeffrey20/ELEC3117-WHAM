@@ -6,7 +6,8 @@ ALL code was written by Andrew Luo and Jeffrey Oh, with the exception of:
 * esp8266.h
 * esp8266.c
 
-The above files are open source libraries that we were allowed to use.
+The above is an open source library by Camil Staps, to use the esp8266. It is important to note, so changes were made to this code to better match our needs.
+
 ## Code contents
 * DHT11.c includes code for the temperature/humidty sensor
 * LCD.c includes code for the LCD
