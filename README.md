@@ -1,9 +1,11 @@
 # ELEC3117-WHAM
 Full final code for the WHAM, a project for ELEC3117 at UNSW
+
 ## Uses
 ALL code was written by Andrew Luo and Jeffrey Oh, with the exception of:
 * esp8266.h
 * esp8266.c
+
 The above files are open source libraries that we were allowed to use.
 ## Code contents
 * DHT11.c includes code for the temperature/humidty sensor
